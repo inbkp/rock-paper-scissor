@@ -1,1 +1,1 @@
-# rock-paper-scissor
+This the challenge from odin project to make rock paper scissor game with javascript using function method. The game will be played in console. The challenge is only focusing on javascript only not for html or css, thus the game can only played in console.
